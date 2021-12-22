@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05954b9d.css",
+    "main.js": "/static/js/main.54476b2f.js",
+    "static/js/787.9f1de1c6.chunk.js": "/static/js/787.9f1de1c6.chunk.js",
+    "static/media/background1.jpg": "/static/media/background1.e3b56cf6373d9f93baac.jpg",
+    "static/media/item4.jpg": "/static/media/item4.c711c1b9703ccb295b68.jpg",
+    "static/media/item17.jpg": "/static/media/item17.84eab206242ae6bd7444.jpg",
+    "static/media/item10.jpg": "/static/media/item10.8bbedd106d246e3f6857.jpg",
+    "static/media/item1.jpg": "/static/media/item1.817efa18600b7d27321e.jpg",
+    "static/media/item8.jpg": "/static/media/item8.12358a1de79816a84219.jpg",
+    "static/media/item11.jpg": "/static/media/item11.1b9db12b3db7d2bedd2b.jpg",
+    "static/media/item21.jpg": "/static/media/item21.52c4c66c4234e1991004.jpg",
+    "static/media/item3.jpg": "/static/media/item3.44e19164bfcf58426f9d.jpg",
+    "static/media/item18.jpg": "/static/media/item18.9087ed921b68a8fa55ce.jpg",
+    "static/media/item6.jpg": "/static/media/item6.51b1dc5f3c7e0e197f24.jpg",
+    "static/media/item2.jpg": "/static/media/item2.91b96a363a00e1a8513d.jpg",
+    "static/media/item19.jpg": "/static/media/item19.71cd24eb517e5688a8a6.jpg",
+    "static/media/item5.jpg": "/static/media/item5.ef3c86d689ffbe349706.jpg",
+    "static/media/item0.jpg": "/static/media/item0.e541658456de938e6e33.jpg",
+    "static/media/item12.jpg": "/static/media/item12.34477ea5b501e99cd1ca.jpg",
+    "static/media/item13.jpg": "/static/media/item13.20c933580602bcf871ec.jpg",
+    "static/media/item15.jpg": "/static/media/item15.74555ae00480e3743bc3.jpg",
+    "static/media/item23.jpg": "/static/media/item23.6ed7488625618e946258.jpg",
+    "static/media/item9.jpg": "/static/media/item9.5a01988b971f6def7a18.jpg",
+    "static/media/item22.jpg": "/static/media/item22.a6617ff6ba7493ba9de2.jpg",
+    "static/media/item7.jpg": "/static/media/item7.5b8a120beaef416c192e.jpg",
+    "static/media/item14.jpg": "/static/media/item14.1a75a77f7bfcc3d48a6b.jpg",
+    "static/media/item20.jpg": "/static/media/item20.4035fdc1220815c7605a.jpg",
+    "static/media/item16.jpg": "/static/media/item16.80a0fbb20cfc1a25f58d.jpg",
+    "index.html": "/index.html",
+    "main.05954b9d.css.map": "/static/css/main.05954b9d.css.map",
+    "main.54476b2f.js.map": "/static/js/main.54476b2f.js.map",
+    "787.9f1de1c6.chunk.js.map": "/static/js/787.9f1de1c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05954b9d.css",
+    "static/js/main.54476b2f.js"
+  ]
+}
